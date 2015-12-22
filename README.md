@@ -18,6 +18,7 @@ A list of really cool CSS frameworks, libraries, API's and other useful things I
   - [Drag and Droppable lists](http://bevacqua.github.io/dragula/) (Drag and drop lists)
   - [PHP login](http://www.php-login.net/) (A collection of 4 PHP login / authentication scripts)
   - [Postcodes.io](http://postcodes.io/) (UK Postcode & Geolocation data API)
+  - [Sly](http://darsa.in/sly/) (JavaScript library for one-directional scrolling)
 
 ### Editors
   - [Sublime Text](http://www.sublimetext.com/) (The most sophisticated text editor for code, markup and prose.)
