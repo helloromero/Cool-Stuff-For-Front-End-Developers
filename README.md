@@ -9,6 +9,11 @@ A list of really cool CSS frameworks, libraries, API's and other useful things I
   - [Furatto](http://icalialabs.github.io/furatto/) (A super flat CSS framework)
   - [Uikit](http://getuikit.com/) (A lightweight CSS framework)
   - [HTML Mobile Emulator](https://github.com/heyrm/Mobile-Emulator) (A simple HTML Mobile Emulator :P)
+
+### Fonts and Icons...
+  - [Lato](https://www.google.com/fonts/specimen/Lato) (Minimal and clean web font)
+  - [Awesome Website Icons](http://www.webalys.com/) (List of icons you don't see everyday)
+  - [Popular Website Icons](https://fortawesome.github.io/Font-Awesome/) (The most used web icons)
    
 ### Frameworks, libraries and API's
   - [Google developers](https://developers.google.com/web/) (Tools and Google services for building web apps)
@@ -28,4 +33,4 @@ A list of really cool CSS frameworks, libraries, API's and other useful things I
   - [Space Gray](http://kkga.github.io/spacegray/) (Minimal UI Theme for Sublime Text 2/3 - this is what I use)
   - [Auto save](https://github.com/jamesfzhang/auto-save) (Automatically saves files in Sublime Text)
   - [HTML/CSS/JS Guidelines](https://github.com/bendc/frontend-guidelines) (HTML, CSS and JS  Style Guide)
-  - [JS Style Guide *in depth*](https://github.com/airbnb/javascript) (JavaScript Style Guide)
+  - [JS Style Guide](https://github.com/airbnb/javascript) (JavaScript Style Guide)
