@@ -8,6 +8,7 @@ A list of really cool CSS frameworks, libraries, API's and other useful things I
   - [MDL](http://www.getmdl.io/) (A CSS framework from Google)
   - [Furatto](http://icalialabs.github.io/furatto/) (A super flat CSS framework)
   - [Uikit](http://getuikit.com/) (A lightweight CSS framework)
+  - [rwdgrid](https://github.com/gsvineeth/rwdgrid) (Responsive Grid System)
 
 ### CSS Frameworks (animation)
   - [SpinKit](http://tobiasahlin.com/spinkit/) (Animated CSS loading elements)
@@ -26,6 +27,8 @@ A list of really cool CSS frameworks, libraries, API's and other useful things I
   - [jQuery UI Touch Punch](http://touchpunch.furf.com/) (Touch events for jQuery UI)
   - [Drag and Droppable lists](http://bevacqua.github.io/dragula/) (Drag and drop lists)
   - [Sly](http://darsa.in/sly/) (JavaScript library for one-directional scrolling)
+  - [TinyMCE](https://github.com/tinymce/tinymce) (The best Fancy Textarea)
+  - [FitText.js](https://github.com/davatron5000/FitText.js) (Responsive font resizing)
 
 ### PHP Plug-ins
   - [PHP login](http://www.php-login.net/) (A collection of 4 PHP login / authentication scripts)
@@ -33,11 +36,11 @@ A list of really cool CSS frameworks, libraries, API's and other useful things I
 ### API's
   - [Postcodes.io](http://postcodes.io/) (UK Postcode & Geolocation data API)
   - [Foursquare](https://developer.foursquare.com/) (Worldwide store data)
-  - [HTML/CSS/JS Guidelines](https://github.com/bendc/frontend-guidelines) (HTML, CSS and JS  Style Guide)
 
 ### Learning Resources
   - [Google developers](https://developers.google.com/web/) (Tools and Google services for building web apps)
   - [JavaScript Style Guide](https://github.com/airbnb/javascript) (A great JS style guide)
+  - [HTML/CSS/JS Guidelines](https://github.com/bendc/frontend-guidelines) (HTML, CSS and JS  Style Guide)
 
 ### Editors
   - [Sublime Text](http://www.sublimetext.com/) (The most sophisticated text editor for code, markup and prose.)
