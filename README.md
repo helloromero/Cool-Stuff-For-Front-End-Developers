@@ -9,6 +9,7 @@ A list of really cool CSS frameworks, libraries, API's and other useful things I
   - [Furatto](http://icalialabs.github.io/furatto/) (A super flat CSS framework)
   - [Uikit](http://getuikit.com/) (A lightweight CSS framework)
   - [rwdgrid](https://github.com/gsvineeth/rwdgrid) (Responsive Grid System)
+  - [Bulma](http://bulma.io/) (Modern CSS framework based on Flexbox)
 
 ### CSS Frameworks (animation)
   - [SpinKit](http://tobiasahlin.com/spinkit/) (Animated CSS loading elements)
@@ -29,9 +30,16 @@ A list of really cool CSS frameworks, libraries, API's and other useful things I
   - [Sly](http://darsa.in/sly/) (JavaScript library for one-directional scrolling)
   - [TinyMCE](https://github.com/tinymce/tinymce) (The best Fancy Textarea)
   - [FitText.js](https://github.com/davatron5000/FitText.js) (Responsive font resizing)
+  - [Chosen](http://harvesthq.github.io/chosen/) (User-friendly select boxes)
+  - [jQuery.panzoom](http://timmywil.github.io/jquery.panzoom/) (Drag and zoom any element)
 
-### PHP Plug-ins
-  - [PHP login](http://www.php-login.net/) (A collection of 4 PHP login / authentication scripts)
+### PHP Login Systems (very stable but not maintained)
+  - [PHP login (ONE-FILE VERSION)](https://github.com/panique/php-login-one-file) (One-file SQLite database. Features: Register, login, logout)
+  - [PHP login (MINIMAL VERSION)](https://github.com/panique/php-login-minimal) (MySQL database. Features: Register, login, logout)
+  - [PHP login (ADVANCED VERSION)](https://github.com/panique/php-login-advanced) (One-file SQLite database. Features: Register, login, logout, PDO, password-reset, cookies and captcha)
+  - [PHP login (HUGE)](https://github.com/panique/huge) (One-file SQLite database. Features: Register, login, logout, PDO, password-reset, cookies and captcha, URL rewriting, Facebook-login, PDO, Composer, PHPMailer, avatars, account upgrade/downgrade and much more. )
+  ##### PHP Login Systems (Actively maintained)
+- [Laravel](https://www.laravel.com/), [Yii2](http://www.yiiframework.com/) and [Symfony](https://www.symfony.com/)
 
 ### API's
   - [Postcodes.io](http://postcodes.io/) (UK Postcode & Geolocation data API)
