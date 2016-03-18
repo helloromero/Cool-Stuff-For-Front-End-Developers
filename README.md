@@ -38,7 +38,8 @@ A list of really cool CSS frameworks, libraries, API's and other useful things I
   - [PHP login (MINIMAL VERSION)](https://github.com/panique/php-login-minimal) (MySQL database. Features: Register, login, logout)
   - [PHP login (ADVANCED VERSION)](https://github.com/panique/php-login-advanced) (One-file SQLite database. Features: Register, login, logout, PDO, password-reset, cookies and captcha)
   - [PHP login (HUGE)](https://github.com/panique/huge) (One-file SQLite database. Features: Register, login, logout, PDO, password-reset, cookies and captcha, URL rewriting, Facebook-login, PDO, Composer, PHPMailer, avatars, account upgrade/downgrade and much more. )
-  ##### PHP Login Systems (Actively maintained)
+  
+##### PHP Login Systems (Actively maintained)
 - [Laravel](https://www.laravel.com/), [Yii2](http://www.yiiframework.com/) and [Symfony](https://www.symfony.com/)
 
 ### API's
