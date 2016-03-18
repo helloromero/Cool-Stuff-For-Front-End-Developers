@@ -3,6 +3,7 @@
 A list of really cool CSS frameworks, libraries, API's and other useful things I use everyday as a front-end developer.
 
 ### CSS Frameworks
+  - [W3.CSS](http://www.w3schools.com/w3css/) (The most lightweight framework at 27K)
   - [Bootstrap](http://getbootstrap.com/) (The most used mobile first CSS framework)
   - [Pure](http://purecss.io/) (A CSS framework from Yahoo)
   - [MDL](http://www.getmdl.io/) (A CSS framework from Google)
@@ -10,6 +11,9 @@ A list of really cool CSS frameworks, libraries, API's and other useful things I
   - [Uikit](http://getuikit.com/) (A lightweight CSS framework)
   - [rwdgrid](https://github.com/gsvineeth/rwdgrid) (Responsive Grid System)
   - [Bulma](http://bulma.io/) (Modern CSS framework based on Flexbox)
+
+### CSS Frameworks (Mobile)
+  - [Framework7](http://framework7.io/) (Full Featured HTML Framework For Building iOS & Android Apps)
 
 ### CSS Frameworks (animation)
   - [SpinKit](http://tobiasahlin.com/spinkit/) (Animated CSS loading elements)
