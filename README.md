@@ -23,8 +23,8 @@ A list of really cool CSS frameworks, libraries, API's and other useful things I
   - [Lato](https://www.google.com/fonts/specimen/Lato) (Minimal and clean web font)
 
 ### Icons
-  - [Awesome Website Icons](http://www.webalys.com/) (List of icons you don't see everyday)
-  - [Popular Website Icons](https://fortawesome.github.io/Font-Awesome/) (The most used web icons)
+  - [Font Awesome](https://fortawesome.github.io/Font-Awesome/) (The most used web icons)
+  - [Ionicons](https://github.com/driftyco/ionicons/) (The premium icon font for Ionic)
    
 ### JS Plug-ins
   - [Sweetalert](http://t4t5.github.io/sweetalert/) (A beautiful replacement for JavaScript's "alert")
@@ -38,10 +38,14 @@ A list of really cool CSS frameworks, libraries, API's and other useful things I
   - [jQuery.panzoom](http://timmywil.github.io/jquery.panzoom/) (Drag and zoom any element)
 
 ### PHP Login Systems (very stable but not maintained)
-  - [PHP login (ONE-FILE VERSION)](https://github.com/panique/php-login-one-file) (One-file SQLite database. Features: Register, login, logout)
-  - [PHP login (MINIMAL VERSION)](https://github.com/panique/php-login-minimal) (MySQL database. Features: Register, login, logout)
-  - [PHP login (ADVANCED VERSION)](https://github.com/panique/php-login-advanced) (One-file SQLite database. Features: Register, login, logout, PDO, password-reset, cookies and captcha)
-  - [PHP login (HUGE)](https://github.com/panique/huge) (One-file SQLite database. Features: Register, login, logout, PDO, password-reset, cookies and captcha, URL rewriting, Facebook-login, PDO, Composer, PHPMailer, avatars, account upgrade/downgrade and much more. )
+  - [PHP login (ONE-FILE VERSION)](https://github.com/panique/php-login-one-file)
+    - One-file SQLite database. Features: Register, login, logout
+  - [PHP login (MINIMAL VERSION)](https://github.com/panique/php-login-minimal) 
+    - MySQL database. Features: Register, login, logout
+  - [PHP login (ADVANCED VERSION)](https://github.com/panique/php-login-advanced) 
+    - One-file SQLite database. Features: Register, login, logout, PDO, password-reset, cookies and captcha
+  - [PHP login (HUGE)](https://github.com/panique/huge) 
+    - One-file SQLite database. Features: Register, login, logout, PDO, password-reset, cookies and captcha, URL rewriting, Facebook-login, PDO, Composer, PHPMailer, avatars, account upgrade/downgrade and much more. 
   
 ##### PHP Login Systems (Actively maintained)
 - [Laravel](https://www.laravel.com/), [Yii2](http://www.yiiframework.com/) and [Symfony](https://www.symfony.com/)
