@@ -26,8 +26,12 @@ A list of really cool CSS frameworks, libraries, API's and other useful things I
   - [Font Awesome](https://fortawesome.github.io/Font-Awesome/) (The most used web icons)
   - [Ionicons](https://github.com/driftyco/ionicons/) (The premium icon font for Ionic)
    
+### Everyday Tools
+  - [FakemailGenerator](http://www.fakemailgenerator.com/) (Free disposable emails for testing email functionality)
+
 ### JS Plug-ins
   - [Sweetalert](http://t4t5.github.io/sweetalert/) (A beautiful replacement for JavaScript's "alert")
+  - [DropzoneJS](http://www.dropzonejs.com/) (Drag’n’drop file uploads with image previews)
   - [ProgressBar.js](http://kimmobrunfeldt.github.io/progressbar.js/) (Beautiful and responsive progress bars)
   - [jQuery UI Touch Punch](http://touchpunch.furf.com/) (Touch events for jQuery UI)
   - [Drag and Droppable lists](http://bevacqua.github.io/dragula/) (Drag and drop lists)
@@ -37,7 +41,7 @@ A list of really cool CSS frameworks, libraries, API's and other useful things I
   - [Chosen](http://harvesthq.github.io/chosen/) (User-friendly select boxes)
   - [jQuery.panzoom](http://timmywil.github.io/jquery.panzoom/) (Drag and zoom any element)
 
-### PHP Login Systems (very stable but not maintained)
+### PHP Login Systems (stable but not maintained)
   - [PHP login (ONE-FILE VERSION)](https://github.com/panique/php-login-one-file)
     - One-file SQLite database. Features: Register, login, logout
   - [PHP login (MINIMAL VERSION)](https://github.com/panique/php-login-minimal) 
