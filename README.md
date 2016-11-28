@@ -14,6 +14,7 @@ A list of really cool CSS frameworks, libraries, API's and other useful things I
 
 ### CSS Frameworks (Mobile)
   - [Framework7](http://framework7.io/) (Full Featured HTML Framework For Building iOS & Android Apps)
+  - [Ratchet](http://goratchet.com/) (Build mobile apps with simple HTML‚ CSS‚ and JS components)
 
 ### CSS Frameworks (animation)
   - [SpinKit](http://tobiasahlin.com/spinkit/) (Animated CSS loading elements)
@@ -66,7 +67,11 @@ A list of really cool CSS frameworks, libraries, API's and other useful things I
 ### Editors
   - [Sublime Text](http://www.sublimetext.com/) (The most sophisticated text editor for code, markup and prose.)
   - [Brackets](http://brackets.io/) (A live text editor that works seamless with Chrome)
+  - [Atom](http://brackets.io/) (The hackable text editor - This may be the future but i'll stick to Sublime for now)
 
 ### Sublime Text Packages
-  - [Space Gray](http://kkga.github.io/spacegray/) (Minimal UI Theme for Sublime Text 2/3 - this is what I use)
+  - [Material Theme](https://github.com/equinusocio/material-theme) (Material Theme, the most epic theme for Sublime Text 3 - this is what I use)
+  - [Material Theme - Appbar](https://github.com/equinusocio/material-theme-appbar) (Material Theme - Appbar, tinted appbar for your Sublime Text)
+  - [Space Gray](http://kkga.github.io/spacegray/) (Minimal UI Theme for Sublime Text 2/3 - my old theme)
   - [Auto save](https://github.com/jamesfzhang/auto-save) (Automatically saves files in Sublime Text)
+  - [Sublime SFTP](https://wbond.net/sublime_packages/sftp) (Built in FTP for Sublime Text)
