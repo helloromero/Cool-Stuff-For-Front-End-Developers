@@ -60,6 +60,7 @@ A list of really cool CSS frameworks, libraries, API's and other useful things I
   - [Foursquare](https://developer.foursquare.com/) (Worldwide store data)
 
 ### Learning Resources
+  - [JavaScript30](https://github.com/wesbos/JavaScript30) (30 Day Vanilla JS Challenge)
   - [Google developers](https://developers.google.com/web/) (Tools and Google services for building web apps)
   - [JavaScript Style Guide](https://github.com/airbnb/javascript) (A great JS style guide)
   - [HTML/CSS/JS Guidelines](https://github.com/bendc/frontend-guidelines) (HTML, CSS and JS  Style Guide)
