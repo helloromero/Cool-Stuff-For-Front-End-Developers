@@ -12,7 +12,10 @@ A list of really cool CSS frameworks, libraries, API's and other useful things I
   - [rwdgrid](https://github.com/gsvineeth/rwdgrid) (Responsive Grid System)
   - [Bulma](http://bulma.io/) (Modern CSS framework based on Flexbox)
 
-### CSS Frameworks (Mobile)
+### CSS Frameworks (one page)
+  - [fullPage.js](https://github.com/alvarotrigo/fullPage.js) (Create full screen pages fast and simple)
+
+### CSS Frameworks (mobile)
   - [Framework7](http://framework7.io/) (Full Featured HTML Framework For Building iOS & Android Apps)
   - [Ratchet](http://goratchet.com/) (Build mobile apps with simple HTML‚ CSS‚ and JS components)
 
@@ -41,6 +44,7 @@ A list of really cool CSS frameworks, libraries, API's and other useful things I
   - [FitText.js](https://github.com/davatron5000/FitText.js) (Responsive font resizing)
   - [Chosen](http://harvesthq.github.io/chosen/) (User-friendly select boxes)
   - [jQuery.panzoom](http://timmywil.github.io/jquery.panzoom/) (Drag and zoom any element)
+  - [hammer.js](https://github.com/hammerjs/hammer.js) (multi-touch gestures)
 
 ### PHP Login Systems (stable but not maintained)
   - [PHP login (ONE-FILE VERSION)](https://github.com/panique/php-login-one-file)
@@ -64,6 +68,7 @@ A list of really cool CSS frameworks, libraries, API's and other useful things I
   - [Google developers](https://developers.google.com/web/) (Tools and Google services for building web apps)
   - [JavaScript Style Guide](https://github.com/airbnb/javascript) (A great JS style guide)
   - [HTML/CSS/JS Guidelines](https://github.com/bendc/frontend-guidelines) (HTML, CSS and JS  Style Guide)
+  - [free-programming-books](https://github.com/vhf/free-programming-books) (Freely available programming books)
 
 ### Editors
   - [Sublime Text](http://www.sublimetext.com/) (The most sophisticated text editor for code, markup and prose.)
