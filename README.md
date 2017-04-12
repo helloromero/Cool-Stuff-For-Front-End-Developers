@@ -11,11 +11,7 @@ A list of really cool CSS frameworks, libraries, API's and other useful things I
   - [Uikit](http://getuikit.com/) (A lightweight CSS framework)
   - [rwdgrid](https://github.com/gsvineeth/rwdgrid) (Responsive Grid System)
   - [Bulma](http://bulma.io/) (Modern CSS framework based on Flexbox)
-
-### CSS Frameworks (one page)
   - [fullPage.js](https://github.com/alvarotrigo/fullPage.js) (Create full screen pages fast and simple)
-
-### CSS Frameworks (mobile)
   - [Framework7](http://framework7.io/) (Full Featured HTML Framework For Building iOS & Android Apps)
   - [Ratchet](http://goratchet.com/) (Build mobile apps with simple HTML‚ CSS‚ and JS components)
 
@@ -25,6 +21,7 @@ A list of really cool CSS frameworks, libraries, API's and other useful things I
 
 ### Fonts
   - [Lato](https://www.google.com/fonts/specimen/Lato) (Minimal and clean web font)
+  - [Ubuntu](https://fonts.google.com/specimen/Ubuntu) (Ubuntu web font)
 
 ### Icons
   - [Font Awesome](https://fortawesome.github.io/Font-Awesome/) (The most used web icons)
@@ -45,23 +42,16 @@ A list of really cool CSS frameworks, libraries, API's and other useful things I
   - [Chosen](http://harvesthq.github.io/chosen/) (User-friendly select boxes)
   - [jQuery.panzoom](http://timmywil.github.io/jquery.panzoom/) (Drag and zoom any element)
   - [hammer.js](https://github.com/hammerjs/hammer.js) (multi-touch gestures)
+  - [DataTables](https://datatables.net/) (JS library to help table data has sorting, search, pages, etc)
 
-### PHP Login Systems (stable but not maintained)
-  - [PHP login (ONE-FILE VERSION)](https://github.com/panique/php-login-one-file)
-    - One-file SQLite database. Features: Register, login, logout
-  - [PHP login (MINIMAL VERSION)](https://github.com/panique/php-login-minimal) 
-    - MySQL database. Features: Register, login, logout
-  - [PHP login (ADVANCED VERSION)](https://github.com/panique/php-login-advanced) 
-    - One-file SQLite database. Features: Register, login, logout, PDO, password-reset, cookies and captcha
-  - [PHP login (HUGE)](https://github.com/panique/huge) 
-    - One-file SQLite database. Features: Register, login, logout, PDO, password-reset, cookies and captcha, URL rewriting, Facebook-login, PDO, Composer, PHPMailer, avatars, account upgrade/downgrade and much more. 
-  
-##### PHP Login Systems (Actively maintained)
-- [Laravel](https://www.laravel.com/), [Yii2](http://www.yiiframework.com/) and [Symfony](https://www.symfony.com/)
+### JS Libraries
+  - [Lodash](https://lodash.com/) (JS library to help with arrays, numbers, objects, strings, etc)
+  - [AjaxQ](http://foliotek.github.io/AjaxQ/) (jQuery plugin for sequential ajax requests)
 
 ### API's
   - [Postcodes.io](http://postcodes.io/) (UK Postcode & Geolocation data API)
   - [Foursquare](https://developer.foursquare.com/) (Worldwide store data)
+  - [Google Places API](https://developers.google.com/places/) (Place search information)
 
 ### Learning Resources
   - [JavaScript30](https://github.com/wesbos/JavaScript30) (30 Day Vanilla JS Challenge)
