@@ -22,6 +22,7 @@ A list of really cool CSS frameworks, libraries, API's and other useful things I
 ### Fonts
   - [Lato](https://www.google.com/fonts/specimen/Lato) (Minimal and clean web font)
   - [Ubuntu](https://fonts.google.com/specimen/Ubuntu) (Ubuntu web font)
+  - [BLOKK](http://www.blokkfont.com/) (A font for quick mock-ups and wireframing for clients.)
 
 ### Icons
   - [Font Awesome](https://fortawesome.github.io/Font-Awesome/) (The most used web icons)
