@@ -29,6 +29,7 @@ A list of really cool CSS frameworks, libraries, API's and other useful things I
   - [Ionicons](https://github.com/driftyco/ionicons/) (The premium icon font for Ionic)
    
 ### Everyday Tools
+  - [Can I use](http://caniuse.com/) (Can I use... Support tables for HTML5, CSS3, etc)
   - [FakemailGenerator](http://www.fakemailgenerator.com/) (Free disposable emails for testing email functionality)
 
 ### JS Plug-ins
@@ -60,6 +61,15 @@ A list of really cool CSS frameworks, libraries, API's and other useful things I
   - [JavaScript Style Guide](https://github.com/airbnb/javascript) (A great JS style guide)
   - [HTML/CSS/JS Guidelines](https://github.com/bendc/frontend-guidelines) (HTML, CSS and JS  Style Guide)
   - [free-programming-books](https://github.com/vhf/free-programming-books) (Freely available programming books)
+
+### Inspiration
+  - [Behance](https://www.behance.net/) (General Design Inspiration)
+  - [Awwwards](http://www.awwwards.com/) (Web design and development competition body)
+
+### Free Stock Images
+  - [Death To Stock](http://deathtothestockphoto.com/) (Stock images straight to your inbox)
+  - [Unsplash](https://unsplash.com/) (Community based stock photos)
+  - [Pic Jumbo](https://picjumbo.com/) (1500+ Free Stock Photos)
 
 ### Editors
   - [Sublime Text](http://www.sublimetext.com/) (The most sophisticated text editor for code, markup and prose.)
