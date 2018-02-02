@@ -74,7 +74,7 @@ A list of really cool CSS frameworks, libraries, API's and other useful things I
 ### Editors
   - [Sublime Text](http://www.sublimetext.com/) (The most sophisticated text editor for code, markup and prose.)
   - [Brackets](http://brackets.io/) (A live text editor that works seamless with Chrome)
-  - [Atom](http://brackets.io/) (The hackable text editor - This may be the future but i'll stick to Sublime for now)
+  - [Atom](https://atom.io/) (The hackable text editor - This may be the future but i'll stick to Sublime for now)
 
 ### Sublime Text Packages
   - [Material Theme](https://github.com/equinusocio/material-theme) (Material Theme, the most epic theme for Sublime Text 3 - this is what I use)
